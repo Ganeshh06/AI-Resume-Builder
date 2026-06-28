@@ -10,7 +10,6 @@ A powerful AI-driven Resume Builder web app that helps users create professional
 
 ## 🌟 Live Demo
 
-## 🚀 Live Demo
 👉 [Click Here to View Project](https://your-live-link.com)
 
 ---
