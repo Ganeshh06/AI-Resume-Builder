@@ -1,3 +1,7 @@
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 # 🚀 AI Resume Builder
 
 A powerful AI-driven Resume Builder web app that helps users create professional resumes in minutes with AI suggestions, image processing, authentication, and PDF export.
@@ -6,7 +10,8 @@ A powerful AI-driven Resume Builder web app that helps users create professional
 
 ## 🌟 Live Demo
 
-👉 https://your-live-demo-link.com
+## 🚀 Live Demo
+👉 [Click Here to View Project](https://your-live-link.com)
 
 ---
 
