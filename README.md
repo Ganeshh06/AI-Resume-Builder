@@ -10,7 +10,7 @@ A powerful AI-driven Resume Builder web app that helps users create professional
 
 ## 🌟 Live Demo
 
-👉 [Click Here to View Project](ai-resume-builder-three-peach.vercel.app)
+👉 [Click Here to View Project]("ai-resume-builder-three-peach.vercel.app")
 
 ---
 
