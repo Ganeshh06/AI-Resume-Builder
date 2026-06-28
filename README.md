@@ -1,2 +1,131 @@
-# AI-Resume-Builder
-AI Resume Builder – A full-stack web application that helps users create professional resumes using AI. Features include AI-generated content suggestions, user authentication, profile image upload with auto face-focus cropping, customizable resume templates, PDF export, and secure cloud-based data storage using MongoDB.
+# 🚀 AI Resume Builder
+
+A powerful AI-driven Resume Builder web app that helps users create professional resumes in minutes with AI suggestions, image processing, authentication, and PDF export.
+
+---
+
+## 🌟 Live Demo
+
+👉 https://your-live-demo-link.com
+
+---
+
+## ✨ Features
+
+- 🔐 Secure Authentication (Login / Signup)
+- 🤖 AI-Powered Resume Content Generation (Gemini API)
+- 📝 Easy Drag & Edit Resume Builder
+- 📷 Profile Image Upload
+- 🎯 Auto Face-Centered Crop
+- 🧼 Background Removal from Profile Image (AI-based)
+- 📄 Download Resume as PDF
+- 💾 MongoDB Database Integration
+- 🎨 Modern & Responsive UI
+- ⚡ Fast Performance
+
+---
+
+## 🧠 AI Features
+
+- Smart content suggestions for resume sections
+- Auto keyword optimization for ATS-friendly resumes
+- Background removal for clean professional profile photos
+- Intelligent formatting suggestions
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- HTML
+- CSS
+- JavaScript
+
+**Backend:**
+- Node.js
+- Express.js
+
+**Database:**
+- MongoDB Atlas
+- Mongoose
+
+**AI Services:**
+- Google Gemini API
+- Background Removal API / AI Model
+
+---
+
+## 📂 Project Structure
+
+ai-resume-builder/
+├── client/
+│ ├── src/
+│ ├── assets/
+│ └── components/
+│
+├── server/
+│ ├── configs/
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ └── .env
+│
+├── README.md
+└── package.json
+
+
+---
+
+## ⚙️ Installation
+
+### 1. Clone Repository
+```bash
+• git clone https://github.com/Ganeshh/AI-Resume-Builder.git
+
+2. Install Dependencies
+
+Backend(Bash):
+•cd server
+•npm install
+
+Frontend(Bash):
+•cd client
+•npm install
+
+🔐 Environment Variables
+
+•Create .env file in server directory:
+•PORT=3000
+•MONGODB_URI=your_mongodb_connection_string
+•JWT_SECRET=your_secret_key
+•GEMINI_API_KEY=your_gemini_api_key
+
+🚀 Run Project
+
+Backend:
+•npm run server
+
+Frontend:
+•npm run dev
+
+🖼️ Screenshots
+
+
+
+🚀 Future Enhancements
+•ATS Resume Scoring System
+•Multiple Resume Templates
+•Resume Share Link
+•Cover Letter Generator
+•Dark Mode
+•Multi-language Support
+•AI Interview Preparation Mode
+
+
+👨‍💻 Developer
+
+Made with ❤️ by Ganesh Prajapati
+
+📜 License
+
+This project is open-source for learning and portfolio use.
